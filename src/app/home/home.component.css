@@ -1,0 +1,7 @@
+section .container{
+  width: 500px;
+}
+
+section .container img{
+  width: 50%;
+}

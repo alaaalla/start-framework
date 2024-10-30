@@ -1,0 +1,11 @@
+nav a{
+  font-size: large;
+}
+nav .navbar-brand{
+  font-size:24px;
+}
+.Active{
+ background-color: blanchedalmond;
+ border-radius: 15px;
+ color: brown;
+}

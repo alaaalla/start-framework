@@ -1,0 +1,23 @@
+section{
+  height: 100%;
+}
+  .item img{
+      height: 250px;
+  }
+  .item:hover img{
+    opacity: 0.5;
+  }
+  #lightBoxContainer{
+      background-color:rgba(0, 0, 0, 0.7)
+  }
+  i{cursor: pointer;}
+  #lightBox{
+    background-image: none;
+      background-size:cover ;
+      background-position: center;
+      width: 50%;
+      height: 400px;
+  }
+  @media screen and (max-width:667px) {
+      #lightBox{width: 100%;}
+  }

@@ -1,0 +1,8 @@
+.contact{
+  padding: 100px 0;
+    height: 100vh;
+  }
+ .contact button{
+  background-color: chocolate;
+  color: bisque;
+ }
